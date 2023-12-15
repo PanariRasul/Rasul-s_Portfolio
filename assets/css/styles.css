@@ -212,6 +212,8 @@ img {
 
 .nav__logo {
   color: var(--second-color);
+  font-weight: 900;
+  font-size: 1.5rem;
 }
 
 .nav__toggle {
@@ -662,7 +664,7 @@ img {
   padding: 2px;
   margin-bottom: 2px;
   font-size: 31px;
-  color: var(--first-color);
+  color: var(--orange-yellow-crayola);
   box-shadow: 2px 2px 6px 0px black;
 }
 
