@@ -316,6 +316,7 @@ img {
 
 .home__blob {
   fill: var(--first-color);
+  width: 90%;
 }
 
 .home__blob-img {
@@ -958,4 +959,8 @@ a {
 .input {
   box-shadow: inset 4px 4px 4px rgba(165, 163, 163, 0.315),
     4px 4px 4px rgba(218, 218, 218, 0.13);
+}
+
+.web {
+  font-size: 45px;
 }
